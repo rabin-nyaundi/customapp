@@ -4,6 +4,8 @@ app_publisher = "jtl"
 app_description = "All app customizations"
 app_email = "dev@jtl.co.ke"
 app_license = "mit"
+
+fixtures = ["Custom Field", "Custom Script", "Property Setter", "Workflow", "DocType"]
 # required_apps = []
 
 # Includes in <head>
